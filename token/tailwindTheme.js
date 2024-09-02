@@ -161,6 +161,15 @@ module.exports = {
     "caution": "#E23030FF",
     "high-emphasis": "#6A707FFF"
   },
+  "outlineColor": {
+    "base": "#EDEFF4FF",
+    "mid-emphasis": "#C4CFDAFF",
+    "base-inverse": "#FFFFFFFF",
+    "accent-orange": "#E46F00FF",
+    "accent-blue": "#2183CBFF",
+    "caution": "#E23030FF",
+    "high-emphasis": "#6A707FFF"
+  },
   "borderRadius": {
     "l": "16px",
     "m": "8px",
