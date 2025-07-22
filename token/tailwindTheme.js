@@ -180,14 +180,14 @@ module.exports = {
     "full": "360px"
   },
   "fontSize": {
-    "base": "16px",
-    "sm": "14px",
-    "lg": "18px",
+    "base": ["16px", "180%"],
+    "sm": ["14px", "180%"],
+    "lg": ["18px", "160%"],
     "heading-xxl": "30px",
     "heading-xl": "28px",
     "heading-l": "24px",
     "heading-m": "21px",
-    "caption": "12px",
+    "caption": ["12px", "160%"],
     "heading-s": "18px",
     "heading-xs": "16px",
     "navigation-xs": "10px",
