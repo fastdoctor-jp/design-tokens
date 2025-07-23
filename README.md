@@ -8,8 +8,7 @@
 ```plaintext
 .
 ├── token
-│   ├── tailwindTheme.js    # TailwindCSSテーマ設定ファイル
-│   └── tokens.json         # デザイントークンの定義ファイル
+│   └── tailwindTheme.js    # TailwindCSSテーマ設定ファイル
 ├── package.json
 └── README.md
 ```
