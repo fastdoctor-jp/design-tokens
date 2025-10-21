@@ -191,9 +191,9 @@ module.exports = {
     "heading-s": "18px",
     "heading-xs": "16px",
     "navigation-xs": "10px",
-    "navigation-m": "14px",
-    "navigation-l": "16px",
-    "navigation-s": "12px",
+    "navigation-s": ["12px", "130%"],
+    "navigation-m": ["14px", "130%"],
+    "navigation-l": ["16px", "130%"],
     "heading-xxs": "14px"
   },
   "textColor": {
